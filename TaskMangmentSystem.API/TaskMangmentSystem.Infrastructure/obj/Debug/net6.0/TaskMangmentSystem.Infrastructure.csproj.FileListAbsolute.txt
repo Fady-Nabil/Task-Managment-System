@@ -1,0 +1,17 @@
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\bin\Debug\net6.0\TaskMangmentSystem.Infrastructure.deps.json
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\bin\Debug\net6.0\TaskMangmentSystem.Infrastructure.runtimeconfig.json
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\bin\Debug\net6.0\TaskMangmentSystem.Infrastructure.dll
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\bin\Debug\net6.0\TaskMangmentSystem.Infrastructure.pdb
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\bin\Debug\net6.0\TaskMangmentSystem.Core.dll
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\bin\Debug\net6.0\TaskMangmentSystem.Core.pdb
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\obj\Debug\net6.0\TaskMangmentSystem.Infrastructure.csproj.AssemblyReference.cache
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\obj\Debug\net6.0\TaskMangmentSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\obj\Debug\net6.0\TaskMangmentSystem.Infrastructure.AssemblyInfoInputs.cache
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\obj\Debug\net6.0\TaskMangmentSystem.Infrastructure.AssemblyInfo.cs
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\obj\Debug\net6.0\TaskMangmentSystem.Infrastructure.csproj.CoreCompileInputs.cache
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\obj\Debug\net6.0\TaskMangmentSystem.Infrastructure.csproj.CopyComplete
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\obj\Debug\net6.0\TaskMangmentSystem.Infrastructure.dll
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\obj\Debug\net6.0\refint\TaskMangmentSystem.Infrastructure.dll
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\obj\Debug\net6.0\TaskMangmentSystem.Infrastructure.pdb
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\obj\Debug\net6.0\TaskMangmentSystem.Infrastructure.genruntimeconfig.cache
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Infrastructure\obj\Debug\net6.0\ref\TaskMangmentSystem.Infrastructure.dll

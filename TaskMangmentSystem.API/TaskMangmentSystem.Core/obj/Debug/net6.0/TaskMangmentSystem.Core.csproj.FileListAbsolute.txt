@@ -1,0 +1,12 @@
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Core\bin\Debug\net6.0\TaskMangmentSystem.Core.deps.json
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Core\bin\Debug\net6.0\TaskMangmentSystem.Core.dll
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Core\bin\Debug\net6.0\TaskMangmentSystem.Core.pdb
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Core\obj\Debug\net6.0\TaskMangmentSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Core\obj\Debug\net6.0\TaskMangmentSystem.Core.AssemblyInfoInputs.cache
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Core\obj\Debug\net6.0\TaskMangmentSystem.Core.AssemblyInfo.cs
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Core\obj\Debug\net6.0\TaskMangmentSystem.Core.csproj.CoreCompileInputs.cache
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Core\obj\Debug\net6.0\TaskMangmentSystem.Core.dll
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Core\obj\Debug\net6.0\refint\TaskMangmentSystem.Core.dll
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Core\obj\Debug\net6.0\TaskMangmentSystem.Core.pdb
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Core\obj\Debug\net6.0\ref\TaskMangmentSystem.Core.dll
+E:\interview-tasks\IST-Networks\TaskMangmentSystem.API\TaskMangmentSystem.Core\obj\Debug\net6.0\TaskMangmentSystem.Core.csproj.AssemblyReference.cache
