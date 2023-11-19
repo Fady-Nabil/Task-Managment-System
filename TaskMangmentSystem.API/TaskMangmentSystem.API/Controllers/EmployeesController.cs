@@ -34,7 +34,7 @@ namespace TaskMangmentSystem.API.Controllers
             var employees = await _unitOfWork.Repository<Employee>().ListAllAsync();
             return _mapper.Map<List<Employee>, List<GetEmployeeDto>>(employees.ToList());
         }
-
+        
         [HttpPost("add")]
         public async Task<ActionResult<GetEmployeeDto>> AddAsync([FromBody] EmployeeDto employeeDto)
         {

@@ -46,7 +46,7 @@ namespace TaskMangmentSystem.API.Controllers
                 Description = issueDto.Description,
                 Status = issueDto.Status,
                 CompletedDate = issueDto.CompletedDate,
-                AssigneeId = issueDto?.AssigneeId,
+                AssigneeId = issueDto.AssigneeId,
             };
 
             var addedIssue = await _unitOfWork.Repository<Issue>().AddAsync(issueToAdd);
@@ -66,11 +66,10 @@ namespace TaskMangmentSystem.API.Controllers
             getIssue.Name = issueDto.Name;
             getIssue.Description = issueDto.Description;
             getIssue.Status = issueDto.Status;
+            getIssue.AssigneeId = issueDto.AssigneeId;
 
-            if(issueDto.CompletedDate is not null)
+            if (issueDto.CompletedDate is not null)
                 getIssue.CompletedDate = issueDto.CompletedDate;
-            if(issueDto.AssigneeId is not null)
-                getIssue.AssigneeId = issueDto?.AssigneeId;
 
             var updatedIssue = _unitOfWork.Repository<Issue>().Update(getIssue);
             var result = await _unitOfWork.Complete();

@@ -14,9 +14,9 @@ namespace TaskMangmentSystem.API.Dtos.IssueDto
         [Required]
         public DateTime AddedDate { get; set; }
         public DateTime? CompletedDate { get; set; }
-        public int? AssigneeId { get; set; }
+        public int AssigneeId { get; set; }
         public IssueDto(string name, string description, IssueStatus status,
-            DateTime? completedDate, int? assigneeId)
+            DateTime? completedDate, int assigneeId)
         {
             Name = name;
             Description = description;
